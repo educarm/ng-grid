@@ -1,0 +1,29 @@
+{
+  "name": "ng-grid",
+  "version": "2.0.11",
+  "homepage": "https://github.com/angular-ui/ng-grid",
+  "description": "Angular data grid",
+  "keywords": [
+    "angular",
+    "grid"
+  ],
+  "license": "MIT",
+  "main": ["./ng-grid.css", "./build/ng-grid.js"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "config",
+    "lib",
+    "scripts",
+    "src",
+    "test",
+    "workbench",
+    "conf.js",
+    "GruntFile.js"
+  ],
+  "dependencies": {
+    "jquery": "educarm/jquery#v2.1.1",
+    "angular": "educarm/angular#v1.2.16"
+  }
+}
