@@ -8,7 +8,7 @@
     "grid"
   ],
   "license": "MIT",
-  "main": ["./ng-grid.css", "./build/ng-grid.js"],
+  "main": ["./ng-grid.css", "./ng-grid-2.0.11.min.js"],
   "ignore": [
     "**/.*",
     "node_modules",
